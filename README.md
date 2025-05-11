@@ -1,2 +1,8 @@
 # MachineLearning5
 Natural Language Processing
+
+Field of computer science and linguistics
+
+Natural language processing (NLP) is a subfield of computer science and especially artificial intelligence. It is primarily concerned with providing computers with the ability to process data encoded in natural language and is thus closely related to information retrieval, knowledge representation and computational linguistics, a subfield of linguistics.
+
+Major tasks in natural language processing are speech recognition, text classification, natural-language understanding, and natural-language generation.
